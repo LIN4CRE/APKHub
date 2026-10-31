@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="APKHub Banner" width="100%">
+  <img src="assets/banner.jpg" alt="APKHub Banner" width="100%">
 </p>
 
-# 📱 APKHub — Private Android APK Store & Indexer
+# 📱 APKHub — Private Android APK Store & Build Artifact Intelligence
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Android Build](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/LIN4CRE/AppHub/releases)
-[![Version](https://img.shields.io/badge/Version-1.0.1-orange.svg)](https://github.com/LIN4CRE/AppHub/releases)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Online-00c853?style=for-the-badge&logo=githubpages&logoColor=white)](https://lin4cre.github.io/APKHub/)
+[![Vercel Edge](https://img.shields.io/badge/Vercel-Production_Edge-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://apkhub-alpha.vercel.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Platform: Android & Web](https://img.shields.io/badge/Platform-Android_%7C_Web-green.svg?style=for-the-badge&logo=android&logoColor=white)](https://lin4cre.github.io/APKHub/)
 
-**AppHub** is your personal, open-source gateway to the best Android apps on GitHub. It's a fast, modern "App Store" that finds, indexes, and helps you install apps directly from their official sources.
+**APKHub** is your personal, open-source gateway to the best Android and TV APKs on GitHub. It is a fast, modern catalog that finds, indexes, verifies signatures, and helps you install apps directly from official upstream releases with zero third-party repackaging.
 
 ---
 
